@@ -1,1 +1,2 @@
-Dziś jest 4 listopada.
+Dziś jest 5 listopada.
+Dziś nie ma imienin Karola.
